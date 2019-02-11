@@ -6,12 +6,16 @@ const qualificationNode = document.getElementById('qualification');
 const relativeNode = document.getElementById('relative');
 const whereNode = document.getElementById('where');
 const whenNode = document.getElementById('when');
-const postureNode = document.getElementById('pposture');
+const postureNode = document.getElementById('posture');
 const havingNode = document.getElementById('having');
 const doingNode = document.getElementById('doing');
 const affectionNode = document.getElementById('affection');
 // variable to send to local storage
-const categories =
+const categories = 
 
-//create for loop to create string and send to categories
+console.log(postureNode);
+
+
+
+
 
